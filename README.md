@@ -1,22 +1,11 @@
+___.                           __                
+\_ |__  __ __  _____   _______/  |_  ___________ 
+ | __ \|  |  \/     \ /  ___/\   __\/ __ \_  __ \
+ | \_\ \  |  /  Y Y  \\___ \  |  | \  ___/|  | \/
+ |___  /____/|__|_|  /____  > |__|  \___  >__|   
+     \/            \/     \/            \/       
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
 
+## A simple web app for a communal system to encourage group meals.
 
-Welcome to your Node.js project on Cloud9 IDE!
-
-This chat example showcases how to use `socket.io` with a static `express` server.
-
-## Running the server
-
-1) Open `server.js` and start the app by clicking on the "Run" button in the top menu.
-
-2) Alternatively you can launch the app from the Terminal:
-
-    $ node server.js
-
-Once the server is running, open the project in the shape of 'https://projectname-username.c9users.io/'. As you enter your name, watch the Users list (on the left) update. Once you press Enter or Send, the message is shared with all connected clients.
+Easily deploys to Heroku.
